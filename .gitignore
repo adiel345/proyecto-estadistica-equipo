@@ -1,0 +1,13 @@
+.DS_store
+Thumbs.db
+$RECYCLE.BIN/
+*.ini
+.vscode/
+.directory
+.Trash-*
+.fuse_hidden
+__pycahe__/
+.venv/
+venv/
+ENV/
+env/

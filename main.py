@@ -16,10 +16,6 @@ def suma(a,b):
     rest = a + b
     return rest
 
-<<<<<<< HEAD
-
-=======
->>>>>>> main
 def resta(a,b):
     """
     Realiza la resta de los dos numeros.

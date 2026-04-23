@@ -1,3 +1,7 @@
+def division(a,b):
+    rest = a / b
+    return rest
+
 def suma(a,b):
     """
     Realiza la suma de dos numeros.
@@ -12,7 +16,10 @@ def suma(a,b):
     rest = a + b
     return rest
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> main
 def resta(a,b):
     """
     Realiza la resta de los dos numeros.
@@ -27,6 +34,25 @@ def resta(a,b):
     rest = a - b
     return rest
     
+def multiplicacion(a,b):
+    rest = a * b
+    return rest
+
+def potencia(a,b):
+    """
+    Calcula la potencia de un número elevado a otro.
+    
+    Args:
+        a (float): La base de la potencia.
+        b (float): El exponente al que se eleva la base.
+        
+    Returns:
+        float: El resultado de a elevado a la potencia de b.
+    """
+    rest = a ** b
+    return rest
+  
+
 def main():
     print("---Analizador de datos v1.0 ---")
     datos = [10,20,30,40,50,60] #datos de prueba

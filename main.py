@@ -1,7 +1,16 @@
 def division(a,b):
     rest = a / b
     return rest
+    """
+    Realiza la divison de dos numeros.
 
+    Argumentos:
+        a (float): Primer numero a dividir
+        b (float): Segundo numero a dividir
+
+    Retorno:
+        (float): Resultado de la divison a y b
+    """
 def suma(a,b):
     """
     Realiza la suma de dos numeros.
@@ -41,7 +50,16 @@ def potencia(a,b):
     Args:
         a (float): La base de la potencia.
         b (float): El exponente al que se eleva la base.
-        
+            """
+    Realiza la divison de dos numeros.
+
+    Argumentos:
+        a (float): Primer numero a dividir
+        b (float): Segundo numero a dividir
+
+    Retorno:
+        (float): Resultado de la divison a y b
+    """
     Returns:
         float: El resultado de a elevado a la potencia de b.
     """
